@@ -4,7 +4,7 @@
 
 | Mobile app | <img alt="Mobile app Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=flutter,dart" /> |
 | :---: | :---: |
-| Frontend | <img alt="Front end Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=ts,js,vue,nuxt,html,css" /> |
+| Frontend | <img alt="Front end Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=vue,nuxt,ts,js,html,css" /> |
 | Backend | <img alt="Front end Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=go" /> |
 | Cloud | <img alt="Cloud Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=firebase,gcp" /> |
 
