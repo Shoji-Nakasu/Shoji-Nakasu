@@ -2,18 +2,9 @@
 
 # Languages & Tools
 
-### Mobile app
-<img alt="Mobile app Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=flutter,dart" />
-
-### Front end
-<img alt="Front end Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=ts,js,vue,nuxt,html,css" />
-
-### Backend
-<img alt="Front end Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=go" />
-
-
-### Cloud
-<img alt="Cloud Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=firebase,gcp" />
+| Mobile app | Front end | Backend | Cloud |
+| :---: | :---: | :---: | :---: |
+| <img alt="Mobile app Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=flutter,dart" /> | <img alt="Front end Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=ts,js,vue,nuxt,html,css" /> | <img alt="Front end Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=go" /> | <img alt="Cloud Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=firebase,gcp" /> |
 
 # Status
 
