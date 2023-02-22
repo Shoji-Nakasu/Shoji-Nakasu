@@ -14,4 +14,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoji-Nakasu&theme=merko)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shoji-Nakasu&theme=gruvbox&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+)]()
