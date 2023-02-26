@@ -2,7 +2,7 @@
 
 # Languages & Tools
 
-| Mobile app | <img alt="Mobile app Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=flutter,dart" /> |
+| Mobile | <img alt="Mobile app Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=flutter,dart" /> |
 | :---: | :---: |
 | Frontend | <img alt="Front end Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=vue,nuxt,ts,js,html,css" /> |
 | Backend | <img alt="Front end Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=go" /> |
